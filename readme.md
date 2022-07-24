@@ -14,6 +14,12 @@ If you play with other mods not designed for the mod manager, it is recommended 
 
 Increases loadout and drop ship slots from 15 to 20.
 
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Loadout-1.0.0.zip)
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Loadout.zip)
 
 Warning: Do not uninstall this mod if any of your loadouts or dropships currently have more than 15 items in them as the extra items may be lost.
+
+### Deep Ore Fast
+
+Reduces time to mine ore from deep veins by 75%.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/DeepOreFast.zip)
