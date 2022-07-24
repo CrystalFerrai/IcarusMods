@@ -1,4 +1,4 @@
-# Icarus Mods
+# Crystal's Icarus Mods
 
 A collection of mods created by me for the survival game Icarus.
 
