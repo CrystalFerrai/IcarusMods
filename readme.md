@@ -16,7 +16,7 @@ Increases loadout and drop ship slots from 15 to 20.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Loadout.zip)
 
-Warning: Do not uninstall this mod if any of your loadouts or dropships currently have more than 15 items in them as the extra items may be lost.
+Warning: Do not runt he game without this mod if any of your loadouts or dropships currently have more than 15 items in them as the extra items may be lost.
 
 ### Deep Ore Fast
 
