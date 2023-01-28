@@ -23,3 +23,9 @@ Warning: Do not run the game without this mod if any of your loadouts or dropshi
 Reduces time to mine ore from deep veins by 75%.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/DeepOreFast.zip)
+
+### Less Weather
+
+Reduces frequency and severity of weather forecasts.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/LessWeather.zip)
