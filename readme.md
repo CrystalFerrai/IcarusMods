@@ -29,3 +29,9 @@ Reduces time to mine ore from deep veins by 75%.
 Reduces frequency and severity of weather forecasts.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/LessWeather.zip)
+
+### Extra Concrete
+
+The concrete mix recipe now produces 2 concrete at no extra cost.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExtraConcrete.zip)
