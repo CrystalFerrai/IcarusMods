@@ -29,3 +29,11 @@ Reduces time to mine ore from deep veins by 75%.
 The concrete mix recipe now produces 2 concrete at no extra cost.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExtraConcrete.zip)
+
+### Exotic Spawner
+
+Spawns 3 exotics veins in open world propsects containing 200-400 exotics each at random locations. Once a vein is fully emptied, another one will spawn a short while later (10 minutes or less) at a new location.
+
+**This mod only functions in open world prospects, not missions or outposts.**
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExoticSpawner.zip)
