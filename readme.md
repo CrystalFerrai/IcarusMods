@@ -32,8 +32,10 @@ The concrete mix recipe now produces 2 concrete at no extra cost.
 
 ### Exotic Spawner
 
-Spawns 3 exotics veins in open world propsects containing 200-400 exotics each at random locations. Once a vein is fully emptied, another one will spawn a short while later (10 minutes or less) at a new location.
+Spawns 3 exotics veins in open world propsects containing 200-400 exotics each at random locations. Once a vein is fully emptied, another one will automatically spawn a short while later (10 minutes or less) at a new location. Once all possible vein locations have spawned - there are around 70 per map - new veins will stop spawning.
 
 **This mod only functions in open world prospects, not missions or outposts.**
+
+You can press F7 to access a menu with advanced commands. From here, you can clear the map of all radar scans to clean up after many scans have been completed. You can also remove all depleted exotics veins, allowing new ones to later spawn in their place. These commands work regardless whether you are in an open world prospect or not. However, new veins will only spawn in open world.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExoticSpawner.zip)
