@@ -58,7 +58,7 @@ Makes several tweaks to weapon/ammo recipes to balance ingredients and yields.
 ### Arrows
 * Steel arrow recipe yields 5 instead of 1
   * Epoxy cost increased to 2 and stick cost increased to 5
-* Aluminum arrow reciped yields 5 instead of 1
+* Aluminum arrow recipe yields 5 instead of 1
   * Aluminum cost decreased from 4 to 2, epoxy cost increased to 2
 * Carbon arrow reciped yields 5 instead of 1
   * Carbon fiber cost decreased from 4 to 2, epoxy cost increased to 2
@@ -69,7 +69,7 @@ Makes several tweaks to weapon/ammo recipes to balance ingredients and yields.
 ### Bolts
 * Metal bolt costs 1 iron ingot instead of 2
 * Steel bolt recipe yields 5 instead of 1
-* Platinum bolt recipe yields 5 instead of 
+* Platinum bolt recipe yields 5 instead of 1
 * Titanium bolt recipe yields 5 instead of 1
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/WeaponBalance.zip)
