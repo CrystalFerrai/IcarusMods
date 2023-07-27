@@ -42,6 +42,8 @@ You can press F7 to access a menu with advanced commands. From here, you can cle
 
 ## Weapon Balance
 
+**WARNING: This mod is currently out of date and should not be used until I get a chance to update it.**
+
 Makes several tweaks to weapon/ammo recipes to balance ingredients and yields.
 
 ### Pistols
