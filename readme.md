@@ -49,9 +49,11 @@ Inrcreases the fuel that a lantern can hold from 1000 to 2500 and increases the 
 Increases power output and lowers fuel consumption for generators.
 
 **Power Output**
+
 * Biofuel generator: 5000 -> 10000
 * Waterwheel: 2000 -> 5000
 * Solar panel: 5000 -> 10000
 
 **Fuel Consumption**
+
 A full can of biofuel will last 8 hours 20 minutes in a generator, double the vanilla time of 4 hours 10 minutes.
