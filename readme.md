@@ -40,43 +40,18 @@ You can press F7 to access a menu with advanced commands. From here, you can cle
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExoticSpawner.zip)
 
-## Weapon Balance
-
-**WARNING: This mod is currently out of date and should not be used until I get a chance to update it.**
-
-Makes several tweaks to weapon/ammo recipes to balance ingredients and yields.
-
-### Pistols
-* Loads 6 rounds instead of 1
-* Moved from Tier 3 to Tier 2
-* Pistol and ammo crafted at crafting bench
-* Pistol recipe uses iron instead of steel
-  * Steel screw requirement removed
-* Ammo recipe uses same ingredients to create 2 bullets instead of 1
-
-### Shotguns
-* Ammo recipe uses same ingredients to create 2 shells instead of 1
-
-### Arrows
-* Steel arrow recipe yields 5 instead of 1
-  * Epoxy cost increased to 2 and stick cost increased to 5
-* Aluminum arrow recipe yields 5 instead of 1
-  * Aluminum cost decreased from 4 to 2, epoxy cost increased to 2
-* Carbon arrow reciped yields 5 instead of 1
-  * Carbon fiber cost decreased from 4 to 2, epoxy cost increased to 2
-* Titanium arrow recipe uses same ingredients to create 5 instead of 1
-* Poison arrow poison paste requirement decreased from 2 to 1
-* Black wolf arrow recipe uses same ingredients to create 5 instead of 1
-
-### Bolts
-* Metal bolt costs 1 iron ingot instead of 2
-* Steel bolt recipe yields 5 instead of 1
-* Platinum bolt recipe yields 5 instead of 1
-* Titanium bolt recipe yields 5 instead of 1
-
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/WeaponBalance.zip)
-
 ## Lantern Fuel
 Inrcreases the fuel that a lantern can hold from 1000 to 2500 and increases the biofuel lamp fuel from 2000 to 2500 to match the lantern.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/LanternFuel.zip)
+
+## More Power
+Increases power output and lowers fuel consumption for generators.
+
+**Power Output**
+* Biofuel generator: 5000 -> 10000
+* Waterwheel: 2000 -> 5000
+* Solar panel: 5000 -> 10000
+
+**Fuel Consumption**
+A full can of biofuel will last 8 hours 20 minutes in a generator, double the vanilla time of 4 hours 10 minutes.
