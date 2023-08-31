@@ -61,5 +61,9 @@ Increases power output and lowers fuel consumption for generators.
 
 A full can of biofuel will last 8 hours 20 minutes in a generator, double the vanilla time of 4 hours 10 minutes.
 
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/MorePower.zip)
+
 ## No Plant Fatigue
 Removes plant fatigue from crop plots for all plants except "strange plants". Note that the Fatigue debuff will still appear, but it will stay at -100%, meaning it does not do anything.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/NoPlantFatigue.zip)
