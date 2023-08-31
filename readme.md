@@ -20,7 +20,10 @@ Warning: Do not run the game without this mod if any of your loadouts or dropshi
 
 ## Deep Ore Fast
 
-Reduces time to mine ore from deep veins by 75%.
+Increases the mining speed of the biofuel and electric deep ore mining drills.
+
+* Biofuel drill: +0% -> +75%
+* Electric drill: +33% -> +100%
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/DeepOreFast.zip)
 
@@ -57,3 +60,6 @@ Increases power output and lowers fuel consumption for generators.
 **Fuel Consumption**
 
 A full can of biofuel will last 8 hours 20 minutes in a generator, double the vanilla time of 4 hours 10 minutes.
+
+## No Plant Fatigue
+Removes plant fatigue from crop plots for all plants except "strange plants". Note that the Fatigue debuff will still appear, but it will stay at -100%, meaning it does not do anything.
