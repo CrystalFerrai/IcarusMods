@@ -33,16 +33,6 @@ The concrete mix recipe now produces 2 concrete at no extra cost.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExtraConcrete.zip)
 
-## Exotic Spawner
-
-Spawns 3 exotics veins in open world propsects containing 200-400 exotics each at random locations. Once a vein is fully emptied, another one will automatically spawn a short while later (10 minutes or less) at a new location. Once all possible vein locations have spawned - there are around 70 per map - new veins will stop spawning.
-
-**This mod only functions in open world prospects, not missions or outposts.**
-
-You can press F7 to access a menu with advanced commands. From here, you can clear the map of all radar scans to clean up after many scans have been completed. You can also remove all depleted exotics veins, allowing new ones to later spawn in their place. These commands work regardless whether you are in an open world prospect or not. However, new veins will only spawn in open world.
-
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExoticSpawner.zip)
-
 ## Lantern Fuel
 Inrcreases the fuel that a lantern can hold from 1000 to 2500 and increases the biofuel lamp fuel from 2000 to 2500 to match the lantern.
 
@@ -67,3 +57,19 @@ A full can of biofuel will last 8 hours 20 minutes in a generator, double the va
 Removes plant fatigue from crop plots for all plants except "strange plants". Note that the Fatigue debuff will still appear, but it will stay at -100%, meaning it does not do anything.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/NoPlantFatigue.zip)
+
+## Exotic Spawner
+
+Spawns 3 exotics veins in open world propsects containing 200-400 exotics each at random locations. Once a vein is fully emptied, another one will automatically spawn a short while later (10 minutes or less) at a new location. Once all possible vein locations have spawned - there are around 70 per map - new veins will stop spawning.
+
+**This mod only functions in open world prospects, not missions or outposts.**
+
+You can press F7 to access a menu with advanced commands. From here, you can clear the map of all radar scans to clean up after many scans have been completed. You can also remove all depleted exotics veins, allowing new ones to later spawn in their place. These commands work regardless whether you are in an open world prospect or not. However, new veins will only spawn in open world.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/ExoticSpawner.zip)
+
+## Red Exotics Mission
+
+Adds a new mission to the Prometheus map called "HARVEST: Red Exotics". This is an exploration mission (30 days, no objectives) that is accessible after completing the fourth story mission. This new mission contains 10 red exotic trees for harvesting.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/RedExoMission.zip)
