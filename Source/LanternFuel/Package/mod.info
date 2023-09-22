@@ -1,0 +1,9 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/LanternFuel",
+	"name": "LanternFuel",
+	"author": "Crystal",
+	"description": "Increases fuel capacity for lantern and biofuel lamp.",
+	"version": "1.0.0",
+	"web": "https://github.com/CrystalFerrai/IcarusMods"
+}

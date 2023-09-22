@@ -1,0 +1,9 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/DeepOreFast",
+	"name": "Deep Ore Fast",
+	"author": "Crystal",
+	"description": "Increases speed of deep ore mining drills.",
+	"version": "1.1.0",
+	"web": "https://github.com/CrystalFerrai/IcarusMods"
+}

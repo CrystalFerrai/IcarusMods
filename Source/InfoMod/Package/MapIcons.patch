@@ -1,0 +1,103 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "UI/D_MapIcons.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{
+					"op": "add",
+					"path": "/Rows/-",
+					"value":
+					{
+						"Name": "InfoModWaypoint",
+						"WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+						"MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Location4.Icon_Map_Location4'",
+						"ZOrder": 50,
+						"ScaleFactor": 0.5,
+						"Color": {
+							"R": 255,
+							"G": 96,
+							"B": 255,
+							"A": 255
+						}
+					}
+				},
+				{
+					"op": "add",
+					"path": "/Rows/-",
+					"value":
+					{
+						"Name": "InfoModExoticDeposit",
+						"WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+						"MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Meta.Icon_Map_Meta'",
+						"ZOrder": 50,
+						"ScaleFactor": 0.5,
+						"Color": {
+							"R": 255,
+							"G": 96,
+							"B": 255,
+							"A": 255
+						}
+					}
+				},
+				{
+					"op": "add",
+					"path": "/Rows/-",
+					"value":
+					{
+						"Name": "InfoModExoticPlant",
+						"WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+						"MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Flora.Icon_Map_Flora'",
+						"ZOrder": 50,
+						"ScaleFactor": 0.5,
+						"Color": {
+							"R": 255,
+							"G": 96,
+							"B": 255,
+							"A": 255
+						}
+					}
+				},
+				{
+					"op": "add",
+					"path": "/Rows/-",
+					"value":
+					{
+						"Name": "InfoModDeepOre",
+						"WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+						"MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/ICON_MAPBeacon_Stone.ICON_MAPBeacon_Stone'",
+						"ZOrder": 50,
+						"ScaleFactor": 0.5,
+						"Color": {
+							"R": 255,
+							"G": 96,
+							"B": 255,
+							"A": 255
+						}
+					}
+				},
+				{
+					"op": "add",
+					"path": "/Rows/-",
+					"value":
+					{
+						"Name": "InfoModGeyser",
+						"WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+						"MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Water.Icon_Water'",
+						"ZOrder": 50,
+						"ScaleFactor": 0.5,
+						"Color": {
+							"R": 255,
+							"G": 96,
+							"B": 255,
+							"A": 255
+						}
+					}
+				}
+			]
+        ]
+	}
+}

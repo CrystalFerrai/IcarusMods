@@ -1,0 +1,14 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Crafting/D_ProcessorRecipes.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{ "op": "replace", "path": "/Rows/154/Outputs/0/Count", "value": 2 }
+			]
+        ]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Farming/D_FarmingSeeds.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{ "op": "replace", "path": "/Defaults/FatigueIncreaseEachHarvest", "value": 0 }
+			]
+        ]
+	}
+}

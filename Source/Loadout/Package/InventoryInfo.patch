@@ -1,0 +1,15 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Inventory/D_InventoryInfo.json",
+	"data":
+	{
+		"patches":
+        [
+            [
+                { "op": "replace", "path": "/Rows/8/StartingSlots", "value": 20 },
+				{ "op": "replace", "path": "/Rows/20/StartingSlots", "value": 20 }
+            ]
+        ]
+	}
+}

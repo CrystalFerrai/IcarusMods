@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"type": "Actor",
+	"target": "Icarus/Content/BP/Systems/BP_IcarusGameMode.uasset",
+	"data":
+	{
+		"components":
+		[
+			"/Game/Mods/ExoticSpawner/ExoticSpawnerModComponent"
+		]
+	}
+}

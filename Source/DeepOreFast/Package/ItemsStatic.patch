@@ -1,0 +1,31 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Items/D_ItemsStatic.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{ "op": "remove", "path": "/Rows/706/AdditionalStats" }
+			],
+			[
+				{ "op": "remove", "path": "/Rows/707/AdditionalStats" }
+			],
+            [
+                {
+					"op": "add", "path": "/Rows/706/AdditionalStats", "value":
+					{
+						"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 100
+					}
+				},
+				{
+					"op": "add", "path": "/Rows/707/AdditionalStats", "value":
+					{
+						"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 75
+					}
+				}
+            ]
+        ]
+	}
+}

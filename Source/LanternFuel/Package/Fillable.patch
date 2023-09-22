@@ -1,0 +1,15 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Traits/D_Fillable.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{ "op": "replace", "path": "/Rows/14/MaximumStoredUnits", "value": 2500 },
+				{ "op": "replace", "path": "/Rows/13/MaximumStoredUnits", "value": 2500 }
+			]
+        ]
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/ExtraConcrete",
+	"name": "ExtraConcrete",
+	"author": "Crystal",
+	"description": "Concrete recipe produces two at a time for no extra cost.",
+	"version": "1.0.1",
+	"web": "https://github.com/CrystalFerrai/IcarusMods"
+}

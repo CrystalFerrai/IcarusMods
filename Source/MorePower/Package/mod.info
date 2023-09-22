@@ -1,0 +1,9 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/MorePower",
+	"name": "MorePower",
+	"author": "Crystal",
+	"description": "Increases the output of some power generators.",
+	"version": "1.0.0",
+	"web": "https://github.com/CrystalFerrai/IcarusMods"
+}

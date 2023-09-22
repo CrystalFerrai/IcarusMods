@@ -1,0 +1,16 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Traits/D_Energy.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{ "op": "replace", "path": "/Rows/0/ResourceFlowRate", "value": 10000 },
+				{ "op": "replace", "path": "/Rows/15/ResourceFlowRate", "value": 10000 },
+				{ "op": "replace", "path": "/Rows/18/ResourceFlowRate", "value": 5000 }
+			]
+        ]
+	}
+}

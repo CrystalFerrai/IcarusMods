@@ -1,0 +1,43 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Factions/D_FactionMissions.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{
+					"op": "add",
+					"path": "/Rows/122",
+					"value": {
+						"Name": "PRO_D_RedExo",
+						"Icon": "/Game/Assets/2DArt/UI/ProspectSelect/Images/T_Prospect_Desert_Sandworm01_Small.T_Prospect_Desert_Sandworm01_Small",
+						"MissionObjectives": [
+							{
+								"QuestRow": {
+									"RowName": "BW6_Explore_Survive",
+									"DataTableName": "D_Quests"
+								},
+								"Depth": 0
+							}
+						],
+						"Faction": {
+							"RowName": "UDA"
+						},
+						"InitialQuest": {
+							"RowName": "PRO_D_RedExo"
+						},
+						"AccountExperience": 50,
+						"FactionExperience": 10,
+						"Metadata": {
+							"RequiredFeatureLevel": {
+								"RowName": "NewFrontiers"
+							}
+						}
+					}
+				}
+			]
+        ]
+	}
+}

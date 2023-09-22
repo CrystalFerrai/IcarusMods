@@ -1,0 +1,17 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Traits/D_Generator.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{ "op": "replace", "path": "/Rows/5/GenerationRate", "value": 10000 },
+				{ "op": "replace", "path": "/Rows/5/GenerationRatio", "value": 30000 },
+				{ "op": "replace", "path": "/Rows/20/GenerationRate", "value": 10000 },
+				{ "op": "replace", "path": "/Rows/21/GenerationRate", "value": 5000 }
+			]
+        ]
+	}
+}

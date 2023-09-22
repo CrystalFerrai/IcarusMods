@@ -1,0 +1,9 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/NoPlantFatigue",
+	"name": "NoPlantFatigue",
+	"author": "Crystal",
+	"description": "Remove plant fatigue from all plants except strange plants.",
+	"version": "1.0.0",
+	"web": "https://github.com/CrystalFerrai/IcarusMods"
+}

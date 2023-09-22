@@ -1,0 +1,22 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Quests/D_Quests.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{
+					"op": "add",
+					"path": "/Rows/1148",
+					"value": {
+						"Name": "PRO_D_RedExo",
+						"Class": "/Game/BP/Quests/Common/BPQ_Exploration.BPQ_Exploration_C",
+						"Description": "NSLOCTEXT(\"D_Quests\", \"PRO_D_RedExo-Description\", \"HARVEST: Red Exotics\")"
+					}
+				}
+			]
+        ]
+	}
+}
