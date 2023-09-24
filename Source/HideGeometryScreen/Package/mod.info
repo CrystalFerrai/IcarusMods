@@ -1,0 +1,8 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/HideGeometryScreen",
+	"name": "HideGeometryScreen",
+	"author": "Crystal",
+	"description": "Hides the \"Loading Geometry\" screen that appears while the world is loading.",
+	"version": "1.0.0"
+}

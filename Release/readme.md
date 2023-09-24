@@ -41,6 +41,12 @@ A full can of biofuel will last 8 hours 20 minutes in a generator, double the va
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/MorePower.zip)
 
+## Hide Geometry Screen
+
+Prevents the game from displaying the "Preparing Geometry" screen, allowing you to see things loading in behind it. Intended to help people diagnose cases where the screen gets stuck and never closes.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/HideGeometryScreen.zip)
+
 ## Info Mod
 
 This mod assists with gathering information about things in the game world. This is primarily intended to assist with data mining and bug reporting efforts.
