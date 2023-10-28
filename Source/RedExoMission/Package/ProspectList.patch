@@ -9,7 +9,7 @@
 			[
 				{
 					"op": "add",
-					"path": "/Rows/115",
+					"path": "/Rows/-",
 					"value": {
 						"Name": "PRO_D_RedExo",
 						"DropName": "NSLOCTEXT(\"D_ProspectList\", \"PRO_D_RedExo-DropName\", \"HARVEST: Red Exotics\")",

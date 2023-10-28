@@ -9,7 +9,7 @@
 			[
 				{
 					"op": "add",
-					"path": "/Rows/122",
+					"path": "/Rows/-",
 					"value": {
 						"Name": "PRO_D_RedExo",
 						"Icon": "/Game/Assets/2DArt/UI/ProspectSelect/Images/T_Prospect_Desert_Sandworm01_Small.T_Prospect_Desert_Sandworm01_Small",

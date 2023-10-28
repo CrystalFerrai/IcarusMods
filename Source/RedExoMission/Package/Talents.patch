@@ -9,7 +9,7 @@
 			[
 				{
 					"op": "add",
-					"path": "/Rows/1078",
+					"path": "/Rows/-",
 					"value": {
 						"Name": "Prospect_Pro_D_RedExo",
 						"ExtraData": {
