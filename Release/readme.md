@@ -80,6 +80,7 @@ Increases power output and lowers fuel consumption for generators.
 * Biofuel generator: 5000 -> 10000
 * Waterwheel: 2000 -> 5000
 * Solar panel: 5000 -> 10000
+* Wind Turbine: 1750 -> 3500
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/MorePower.zip)
 
