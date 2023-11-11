@@ -29,17 +29,23 @@ You can press F7 to access a menu with advanced commands. From here, you can cle
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/ExoticSpawner.zip)
 
+## Recipe Tweaks
+
+Tweaks various recipes to balance against time and resource availability.
+
+* Concrete Mix now produces 4 instead of 1 and takes half as long to process.
+  * This can be overridden by the Extra Concrete mod if you want a lesser bonus.
+* Refined wood takes half as long to process.
+* Steel bloom creates 2 steel ingots instead of 1.
+* Copper wire output is doubled.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RecipeTweaks.zip)
+
 ## Extra Concrete
 
 The concrete mix recipe now produces 2 concrete at no extra cost.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/ExtraConcrete.zip)
-
-**Fuel Consumption**
-
-A full can of biofuel will last 8 hours 20 minutes in a generator, double the vanilla time of 4 hours 10 minutes.
-
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/MorePower.zip)
 
 ## Hide Geometry Screen
 
@@ -81,6 +87,10 @@ Increases power output and lowers fuel consumption for generators.
 * Waterwheel: 2000 -> 5000
 * Solar panel: 5000 -> 10000
 * Wind Turbine: 1750 -> 3500
+
+**Fuel Consumption**
+
+A full can of biofuel will last 8 hours 20 minutes in a generator, double the vanilla time of 4 hours 10 minutes.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/MorePower.zip)
 
