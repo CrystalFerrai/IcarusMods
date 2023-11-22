@@ -34,8 +34,10 @@ How does this mod differ from the vanilla exotic respawning?
 * This mod looks for empty deposits and respawns them every 10 minutes vs vanilla every 3 hours.
 * This mod has no fancy visual effects for respawning like the vanilla game does.
 * This mod only respawns exotics deposits, not exotics cave voxels which the vanilla game also respawns.
-* Using this mod will generally stop the vanilla respawn events for deposits because it will detect that there are already 3 present.
 * Clearing radar scans from the map can be done manually at any time using the mod. The vanilla game clears them automatically when it spawns new deposits, and no other time.
+* Removing depleted deposits can be done manually at any time using the mod. The vanilla game removes them automatically when it spawns new deposits, and no other time.
+
+This mod does not explicitly prevent the vanilla respawn mechanics from happening. However, the vanilla event only runs when there are less than 3 exotic deposits present, and this mod always spawns a new one when there are less than 3. So the vanilla event usually will not happen as a result.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/ExoticSpawner.zip)
 
