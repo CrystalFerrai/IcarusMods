@@ -1,0 +1,9 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/LavaCooler",
+	"name": "Lava Cooler",
+	"author": "Crystal",
+	"description": "Lava does not heat the nearby atmosphere as much.",
+	"version": "1.0.0",
+	"web": "https://github.com/CrystalFerrai/IcarusMods"
+}

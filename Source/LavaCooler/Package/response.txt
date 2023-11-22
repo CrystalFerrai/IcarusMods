@@ -1,0 +1,1 @@
+H:\Icarus\Mods\LavaCooler\Mod\*.* ../../../Icarus/*.*

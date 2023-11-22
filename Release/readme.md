@@ -104,3 +104,9 @@ Removes plant fatigue from crop plots for all plants except "strange plants". No
 Adds a new mission to the Prometheus map called "HARVEST: Red Exotics". This is an exploration mission (30 days, no objectives) that is accessible after completing the fourth story mission. This new mission contains 10 red exotic trees for harvesting.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RedExoMission.zip)
+
+## Lava Cooler
+
+Reduces the ambient heat around lava pools. It still gets very hot, but stays within a range that can be mitigated via gears, buffs, etc. By default, lava areas can reach temperatures of 130C (even though the in-game UI caps at 90C). This mod brings that down to a maximum of around 90C.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RedExoMission.zip)
