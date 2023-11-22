@@ -21,11 +21,21 @@ Increases the mining speed of the biofuel and electric deep ore mining drills.
 
 ## Exotic Spawner
 
+**The game now has its own exotic respawning mechanic in open world, so this mod is no longer needed. However, there are some differences with how the mod works that might be preferable for some people.**
+
 Spawns 3 exotics veins in open world propsects containing 200-400 exotics each at random locations. Once a vein is fully emptied, another one will automatically spawn a short while later (10 minutes or less) at a new location. Once all possible vein locations have spawned - there are around 70 per map - new veins will stop spawning.
 
 **This mod only functions in open world prospects, not missions or outposts.**
 
 You can press F7 to access a menu with advanced commands. From here, you can clear the map of all radar scans to clean up after many scans have been completed. You can also remove all depleted exotics veins, allowing new ones to later spawn in their place. These commands work regardless whether you are in an open world prospect or not. However, new veins will only spawn in open world.
+
+How does this mod differ from the vanilla exotic respawning?
+* This mod spawns deposits with slightly more exotics on average. 200-400 vs vanilla 100-300.
+* This mod looks for empty deposits and respawns them every 10 minutes vs vanilla every 3 hours.
+* This mod has no fancy visual effects for respawning like the vanilla game does.
+* This mod only respawns exotics deposits, not exotics cave voxels which the vanilla game also respawns.
+* Using this mod will generally stop the vanilla respawn events for deposits because it will detect that there are already 3 present.
+* Clearing radar scans from the map can be done manually at any time using the mod. The vanilla game clears them automatically when it spawns new deposits, and no other time.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/ExoticSpawner.zip)
 
