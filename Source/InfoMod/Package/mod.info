@@ -3,6 +3,6 @@
 	"id": "Crystal/InfoMod",
 	"name": "Info Mod",
 	"author": "Crystal",
-	"description": "Adds some extra map information such as player coordinates and locations of exotics.",
-	"version": "1.0.1"
+	"description": "Adds some extra map information such as locations of resources.",
+	"version": "1.1.0"
 }
