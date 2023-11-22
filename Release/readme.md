@@ -109,4 +109,4 @@ Adds a new mission to the Prometheus map called "HARVEST: Red Exotics". This is 
 
 Reduces the ambient heat around lava pools. It still gets very hot, but stays within a range that can be mitigated via gears, buffs, etc. By default, lava areas can reach temperatures of 130C (even though the in-game UI caps at 90C). This mod brings that down to a maximum of around 90C.
 
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RedExoMission.zip)
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LavaCooler.zip)
