@@ -53,6 +53,12 @@ Tweaks various recipes to balance against time and resource availability.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RecipeTweaks.zip)
 
+## Fast Pickup
+
+Reduces the action hold time for picking up deployables from 3 seconds to 0.5 seconds.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/FastPickup.zip)
+
 ## Extra Concrete
 
 The concrete mix recipe now produces 2 concrete at no extra cost.

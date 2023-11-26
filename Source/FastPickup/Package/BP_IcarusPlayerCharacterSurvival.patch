@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"type": "Actor",
+	"target": "Icarus/Content/BP/Player/BP_IcarusPlayerCharacterSurvival.uasset",
+	"data":
+	{
+		"components":
+		[
+			"/Game/Mods/FastPickup/FastPickupPlayerComponent"
+		]
+	}
+}
