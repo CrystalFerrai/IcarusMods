@@ -3,7 +3,7 @@
 	"id": "Crystal/MorePower",
 	"name": "MorePower",
 	"author": "Crystal",
-	"description": "Increases the output of some power generators.",
-	"version": "1.0.0",
+	"description": "Increases the output of power generators.",
+	"version": "1.0.1",
 	"web": "https://github.com/CrystalFerrai/IcarusMods"
 }

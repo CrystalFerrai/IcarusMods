@@ -9,8 +9,8 @@
 			[
 				{ "op": "replace", "path": "/Rows/5/GenerationRate", "value": 10000 },
 				{ "op": "replace", "path": "/Rows/5/GenerationRatio", "value": 30000 },
-				{ "op": "replace", "path": "/Rows/20/GenerationRate", "value": 10000 },
-				{ "op": "replace", "path": "/Rows/21/GenerationRate", "value": 5000 }
+				{ "op": "replace", "path": "/Rows/20/GenerationRate", "value": 12000 },
+				{ "op": "replace", "path": "/Rows/21/GenerationRate", "value": 4000 }
 			]
         ]
 	}

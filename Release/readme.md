@@ -102,9 +102,14 @@ Increases power output and lowers fuel consumption for generators.
 **Power Output**
 
 * Biofuel generator: 5000 -> 10000
-* Waterwheel: 2000 -> 5000
-* Solar panel: 5000 -> 10000
+* Waterwheel: 2000 -> 4000
+* Solar panel: 6000 -> 12000
 * Wind Turbine: 1750 -> 3500
+
+**Power Storage**
+
+* Basic Battery: 1500 -> 3000
+* Advanced Battery: 10000 -> 20000
 
 **Fuel Consumption**
 

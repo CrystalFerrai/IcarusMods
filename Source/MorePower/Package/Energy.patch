@@ -7,10 +7,12 @@
 		"patches":
         [
 			[
-				{ "op": "replace", "path": "/Rows/0/ResourceFlowRate", "value": 10000 },
-				{ "op": "replace", "path": "/Rows/15/ResourceFlowRate", "value": 10000 },
-				{ "op": "replace", "path": "/Rows/18/ResourceFlowRate", "value": 5000 },
-				{ "op": "replace", "path": "/Rows/37/ResourceFlowRate", "value": 3500 }
+				{ "op": "replace", "path": "/Rows/2/ResourceFlowRate", "value": 10000 },
+				{ "op": "replace", "path": "/Rows/3/ResourceFlowRate", "value": 3000 },
+				{ "op": "replace", "path": "/Rows/16/ResourceFlowRate", "value": 12000 },
+				{ "op": "replace", "path": "/Rows/19/ResourceFlowRate", "value": 4000 },
+				{ "op": "replace", "path": "/Rows/38/ResourceFlowRate", "value": 3500 },
+				{ "op": "replace", "path": "/Rows/51/ResourceFlowRate", "value": 20000 }
 			]
         ]
 	}

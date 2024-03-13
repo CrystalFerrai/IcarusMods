@@ -10,8 +10,8 @@
 				{ "op": "replace", "path": "/Rows/154/RequiredMillijoules", "value": 5000 },
 				{ "op": "replace", "path": "/Rows/154/Outputs/0/Count", "value": 4 },
 				{ "op": "replace", "path": "/Rows/172/RequiredMillijoules", "value": 5000 },
-				{ "op": "replace", "path": "/Rows/309/Outputs/0/Count", "value": 2 },
-				{ "op": "replace", "path": "/Rows/745/Outputs/0/Count", "value": 10 }
+				{ "op": "replace", "path": "/Rows/308/Outputs/0/Count", "value": 2 },
+				{ "op": "replace", "path": "/Rows/747/Outputs/0/Count", "value": 10 }
 			]
         ]
 	}
