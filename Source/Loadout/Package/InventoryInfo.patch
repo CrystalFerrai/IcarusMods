@@ -7,8 +7,8 @@
 		"patches":
         [
             [
-                { "op": "replace", "path": "/Rows/8/StartingSlots", "value": 20 },
-				{ "op": "replace", "path": "/Rows/20/StartingSlots", "value": 20 }
+                { "op": "replace", "path": "/Rows/10/StartingSlots", "value": 20 },
+				{ "op": "replace", "path": "/Rows/22/StartingSlots", "value": 20 }
             ]
         ]
 	}
