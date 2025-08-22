@@ -1,0 +1,8 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/CaveMap",
+	"name": "CaveMap",
+	"author": "Crystal",
+	"description": "Show cave locations on in-game map.",
+	"version": "1.0.0"
+}

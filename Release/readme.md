@@ -84,7 +84,7 @@ Pressing \[Alt + Numpad 6\] will start a continuous scan of whatever your game c
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/InfoMod.zip)
 
 ## Lantern Fuel
-Inrcreases the fuel that a lantern can hold from 1000 to 2500 and increases the biofuel lamp fuel from 2000 to 2500 to match the lantern.
+Inrcreases the duration of the lantern from 10 minutes to 30 minutes.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LanternFuel.zip)
 
@@ -133,3 +133,15 @@ Adds a new mission to the Prometheus map called "HARVEST: Red Exotics". This is 
 Reduces the ambient heat around lava pools. It still gets very hot, but stays within a range that can be mitigated via gears, buffs, etc. By default, lava areas can reach temperatures of 130C (even though the in-game UI caps at 90C). This mod brings that down to a maximum of around 90C.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LavaCooler.zip)
+
+## Cave Map
+
+Adds cave icons to the main maps (not outposts). Also adds an outline of the playable area in the null sector of Prometheus. Custom caves in null sector have not yet been mapped.
+
+Cave icon colors:
+
+* White: Template cave
+* Yellow: Custom cave
+* Red: Template cave with entrance inside a custom cave
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/CaveMap.zip)

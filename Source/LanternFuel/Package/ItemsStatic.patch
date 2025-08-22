@@ -1,0 +1,14 @@
+{
+	"schema_version": 1,
+	"type": "Json",
+	"target": "Items/D_ItemsStatic.json",
+	"data":
+	{
+		"patches":
+        [
+			[
+				{ "op": "replace", "path": "/Rows/60/Decayable/RowName", "value": "Decay_30_Minutes" }
+			]
+        ]
+	}
+}

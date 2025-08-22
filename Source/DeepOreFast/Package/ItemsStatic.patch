@@ -7,20 +7,20 @@
 		"patches":
         [
 			[
-				{ "op": "remove", "path": "/Rows/695/AdditionalStats" }
+				{ "op": "remove", "path": "/Rows/683/AdditionalStats" }
 			],
 			[
-				{ "op": "remove", "path": "/Rows/696/AdditionalStats" }
+				{ "op": "remove", "path": "/Rows/684/AdditionalStats" }
 			],
             [
                 {
-					"op": "add", "path": "/Rows/695/AdditionalStats", "value":
+					"op": "add", "path": "/Rows/683/AdditionalStats", "value":
 					{
 						"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 100
 					}
 				},
 				{
-					"op": "add", "path": "/Rows/696/AdditionalStats", "value":
+					"op": "add", "path": "/Rows/684/AdditionalStats", "value":
 					{
 						"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 75
 					}
