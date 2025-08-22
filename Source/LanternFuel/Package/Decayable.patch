@@ -8,7 +8,7 @@
         [
 			[
 				{
-					"op": "add", "path": "/Rows", "value":
+					"op": "add", "path": "/Rows/-", "value":
 					{
 						"Name": "Decay_30_Minutes",
 						"DecayTime": 1800
