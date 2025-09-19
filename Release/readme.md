@@ -105,11 +105,13 @@ Increases power output and lowers fuel consumption for generators.
 * Waterwheel: 2000 -> 4000
 * Solar panel: 6000 -> 12000
 * Wind Turbine: 1750 -> 3500
+* Basic Battery: 1500 -> 3000
+* Advanced Battery: 10000 -> 20000
 
 **Power Storage**
 
-* Basic Battery: 1500 -> 3000
-* Advanced Battery: 10000 -> 20000
+* Basic Battery: 1000000 -> 2000000
+* Advanced Battery: 6000000 -> 12000000
 
 **Fuel Consumption**
 

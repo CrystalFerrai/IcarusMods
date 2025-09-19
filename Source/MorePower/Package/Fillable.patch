@@ -1,0 +1,31 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Traits/D_Fillable.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "alter",
+				"row": "Battery_Shelf_T3",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/MaximumStoredUnits", "value": 2000000 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Battery_Shelf_T4",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/MaximumStoredUnits", "value": 12000000 }
+					]
+				]
+			}
+        ]
+	}
+}
