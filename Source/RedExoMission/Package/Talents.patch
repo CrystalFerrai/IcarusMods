@@ -1,46 +1,43 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Talents/D_Talents.json",
 	"data":
 	{
 		"patches":
         [
-			[
-				{
-					"op": "add",
-					"path": "/Rows/-",
-					"value": {
-						"Name": "Prospect_Pro_D_RedExo",
-						"ExtraData": {
-							"RowName": "PRO_D_RedExo",
-							"DataTableName": "D_ProspectList"
-						},
-						"TalentTree": {
-							"RowName": "Prospect_Prometheus"
-						},
-						"Position": {
-							"X": 5300,
-							"Y": 2750
-						},
-						"Size": {
-							"X": 256,
-							"Y": 256
-						},
-						"RequiredTalents": [
-							{
-								"RowName": "Prospect_Pro_B_Exploration",
-								"DataTableName": "D_Talents"
-							}
-						],
-						"Metadata": {
-							"RequiredFeatureLevel": {
-								"RowName": "NewFrontiers"
-							}
+			{
+				"op": "add",
+				"row": "Prospect_Pro_D_RedExo",
+				"value": {
+					"ExtraData": {
+						"RowName": "PRO_D_RedExo",
+						"DataTableName": "D_ProspectList"
+					},
+					"TalentTree": {
+						"RowName": "Prospect_Prometheus"
+					},
+					"Position": {
+						"X": 5300,
+						"Y": 2750
+					},
+					"Size": {
+						"X": 256,
+						"Y": 256
+					},
+					"RequiredTalents": [
+						{
+							"RowName": "Prospect_Pro_B_Exploration",
+							"DataTableName": "D_Talents"
+						}
+					],
+					"Metadata": {
+						"RequiredFeatureLevel": {
+							"RowName": "NewFrontiers"
 						}
 					}
 				}
-			]
+			}
         ]
 	}
 }

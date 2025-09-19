@@ -1,31 +1,47 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Items/D_ItemsStatic.json",
 	"data":
 	{
 		"patches":
         [
-			[
-				{ "op": "remove", "path": "/Rows/678/AdditionalStats" }
-			],
-			[
-				{ "op": "remove", "path": "/Rows/679/AdditionalStats" }
-			],
-            [
-                {
-					"op": "add", "path": "/Rows/678/AdditionalStats", "value":
-					{
-						"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 100
-					}
-				},
-				{
-					"op": "add", "path": "/Rows/679/AdditionalStats", "value":
-					{
-						"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 75
-					}
-				}
-            ]
+			{
+				"op": "alter",
+				"row": "Deep_Mining_Drill_Electric",
+				"patches":
+				[
+					[
+						{ "op": "remove", "path": "/AdditionalStats" }
+					],
+					[
+						{
+							"op": "add", "path": "/AdditionalStats", "value":
+							{
+								"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 100
+							}
+						}
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Deep_Mining_Drill_Biofuel",
+				"patches":
+				[
+					[
+						{ "op": "remove", "path": "/AdditionalStats" }
+					],
+					[
+						{
+							"op": "add", "path": "/AdditionalStats", "value":
+							{
+								"(Value=\"BaseDeepMiningDrillSpeed_+%\")": 75
+							}
+						}
+					]
+				]
+			}
         ]
 	}
 }

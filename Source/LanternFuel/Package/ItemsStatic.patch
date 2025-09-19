@@ -1,14 +1,21 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Items/D_ItemsStatic.json",
 	"data":
 	{
 		"patches":
         [
-			[
-				{ "op": "replace", "path": "/Rows/60/Decayable/RowName", "value": "Decay_30_Minutes" }
-			]
+			{
+				"op": "alter",
+				"row": "Lantern",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "Decayable/RowName", "value": "Decay_30_Minutes" }
+					]
+				]
+			}
         ]
 	}
 }

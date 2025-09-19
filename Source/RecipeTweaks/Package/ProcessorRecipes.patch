@@ -1,18 +1,52 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Crafting/D_ProcessorRecipes.json",
 	"data":
 	{
 		"patches":
         [
-			[
-				{ "op": "replace", "path": "/Rows/157/RequiredMillijoules", "value": 5000 },
-				{ "op": "replace", "path": "/Rows/157/Outputs/0/Count", "value": 4 },
-				{ "op": "replace", "path": "/Rows/173/RequiredMillijoules", "value": 5000 },
-				{ "op": "replace", "path": "/Rows/309/Outputs/0/Count", "value": 2 },
-				{ "op": "replace", "path": "/Rows/749/Outputs/0/Count", "value": 10 }
-			]
+			{
+				"op": "alter",
+				"row": "Concrete_Mix",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/RequiredMillijoules", "value": 5000 },
+						{ "op": "replace", "path": "/Outputs/0/Count", "value": 4 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Refined_Wood",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/RequiredMillijoules", "value": 5000 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Steel_Ingot",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/Outputs/0/Count", "value": 2 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Copper_Wire",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/Outputs/0/Count", "value": 10 }
+					]
+				]
+			}
         ]
 	}
 }

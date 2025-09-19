@@ -1,14 +1,21 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Crafting/D_ProcessorRecipes.json",
 	"data":
 	{
 		"patches":
         [
-			[
-				{ "op": "replace", "path": "/Rows/157/Outputs/0/Count", "value": 2 }
-			]
+			{
+				"op": "alter",
+				"row": "Concrete_Mix",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/Outputs/0/Count", "value": 2 }
+					]
+				]
+			}
         ]
 	}
 }

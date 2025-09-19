@@ -1,15 +1,31 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Inventory/D_InventoryInfo.json",
 	"data":
 	{
 		"patches":
         [
-            [
-                { "op": "replace", "path": "/Rows/10/StartingSlots", "value": 20 },
-				{ "op": "replace", "path": "/Rows/22/StartingSlots", "value": 20 }
-            ]
+			{
+				"op": "alter",
+				"row": "Space_Player_Loadout",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/StartingSlots", "value": 20 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "DropShip_Equipment",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/StartingSlots", "value": 20 }
+					]
+				]
+			}
         ]
 	}
 }

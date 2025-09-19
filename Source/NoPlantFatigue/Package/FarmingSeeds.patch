@@ -1,14 +1,21 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Farming/D_FarmingSeeds.json",
 	"data":
 	{
 		"patches":
         [
-			[
-				{ "op": "replace", "path": "/Defaults/FatigueIncreaseEachHarvest", "value": 0 }
-			]
+			{
+				"op": "alter",
+				"row": null,
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/FatigueIncreaseEachHarvest", "value": 0 }
+					]
+				]
+			}
         ]
 	}
 }

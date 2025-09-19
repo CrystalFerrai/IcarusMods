@@ -1,18 +1,52 @@
 {
 	"schema_version": 1,
-	"type": "Json",
+	"type": "DataTable",
 	"target": "Traits/D_Generator.json",
 	"data":
 	{
 		"patches":
         [
-			[
-				{ "op": "replace", "path": "/Rows/4/GenerationRate", "value": 10000 },
-				{ "op": "replace", "path": "/Rows/5/GenerationRate", "value": 10000 },
-				{ "op": "replace", "path": "/Rows/5/GenerationRatio", "value": 30000 },
-				{ "op": "replace", "path": "/Rows/20/GenerationRate", "value": 12000 },
-				{ "op": "replace", "path": "/Rows/21/GenerationRate", "value": 4000 }
-			]
+			{
+				"op": "alter",
+				"row": "Basic_Biofuel_Energy_Generator",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/GenerationRate", "value": 10000 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Kit_Generator_Energy_Generator",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/GenerationRate", "value": 10000 },
+						{ "op": "replace", "path": "/GenerationRatio", "value": 30000 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "SolarPanel_Generator",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/GenerationRate", "value": 12000 }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "WaterWheel_Generator",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/GenerationRate", "value": 4000 }
+					]
+				]
+			}
         ]
 	}
 }
