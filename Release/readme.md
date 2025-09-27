@@ -53,18 +53,6 @@ This mod does not explicitly prevent the vanilla respawn mechanics from happenin
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/ExoticSpawner.zip)
 
-## Recipe Tweaks
-
-Tweaks various recipes to balance against time and resource availability.
-
-* Concrete Mix now produces 4 instead of 1 and takes half as long to process.
-  * This can be overridden by the Extra Concrete mod if you want a lesser bonus.
-* Refined wood takes half as long to process.
-* Steel bloom creates 2 steel ingots instead of 1.
-* Copper wire output is doubled.
-
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RecipeTweaks.zip)
-
 ## Extra Concrete
 
 The concrete mix recipe now produces 2 concrete at no extra cost.
@@ -109,7 +97,10 @@ Pressing \[Alt + Numpad 6\] will start a continuous scan of whatever your game c
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/InfoMod.zip)
 
 ## Lantern Fuel
+
 Inrcreases the duration of the lantern from 10 minutes to 30 minutes.
+
+Increases the battery capacity of the battery powered lantern from 6500 to 10000.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LanternFuel.zip)
 
@@ -154,6 +145,18 @@ A full can of biofuel will last 8 hours 20 minutes in a generator, double the va
 Removes plant fatigue from crop plots for all plants except "strange plants". Note that the Fatigue debuff will still appear, but it will stay at -100%, meaning it does not do anything.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/NoPlantFatigue.zip)
+
+## Recipe Tweaks
+
+Tweaks various recipes to balance against time and resource availability.
+
+* Concrete Mix now produces 4 instead of 1 and takes half as long to process.
+  * This can be overridden by the Extra Concrete mod if you want a lesser bonus.
+* Refined wood takes half as long to process.
+* Steel bloom creates 2 steel ingots instead of 1.
+* Copper wire output is doubled.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RecipeTweaks.zip)
 
 ## Red Exotics Mission
 

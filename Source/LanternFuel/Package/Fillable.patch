@@ -1,0 +1,21 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Traits/D_Fillable.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "alter",
+				"row": "Battery_Lamp",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "MaximumStoredUnits", "value": 10000 }
+					]
+				]
+			}
+        ]
+	}
+}
