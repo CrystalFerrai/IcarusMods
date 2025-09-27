@@ -1,0 +1,54 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Traits/D_Inventory.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "alter",
+				"row": "Biofuel_Drill",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/Inventories/0/RowName", "value": "Exotic_Extractor" }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Exotic_Electric_Drill",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/Inventories/0/RowName", "value": "Exotic_Extractor_Large" }
+					]
+				]
+			},
+			{
+				"op": "alter",
+				"row": "Meta_Extractor",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/Inventories/0/RowName", "value": "Exotic_Extractor_Large" }
+					]
+				]
+			},
+			{
+				"op": "add",
+				"row": "Exotic_Harvester",
+				"value":
+				{
+					"Inventories": [
+						{
+							"RowName": "Exotic_Harvester",
+							"DataTableName": "D_InventoryInfo"
+						}
+					]
+				}
+			}
+        ]
+	}
+}

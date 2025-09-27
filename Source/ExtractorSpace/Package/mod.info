@@ -1,0 +1,9 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/ExtractorSpace",
+	"name": "ExtractorSpace",
+	"author": "Crystal",
+	"description": "Exotic extractors and harvestors have more inventory space.",
+	"version": "1.0.0",
+	"web": "https://github.com/CrystalFerrai/IcarusMods"
+}

@@ -1,0 +1,21 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Items/D_ItemsStatic.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "alter",
+				"row": "Exotic_Harvester",
+				"patches":
+				[
+					[
+						{ "op": "replace", "path": "/Inventory/RowName", "value": "Exotic_Harvester" }
+					]
+				]
+			}
+        ]
+	}
+}

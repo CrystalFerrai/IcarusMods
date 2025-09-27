@@ -1,0 +1,44 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Inventory/D_InventoryInfo.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "Exotic_Extractor",
+				"value":
+				{
+					"InventoryID": {
+						"Value": "General"
+					},
+					"StartingSlots": 12
+				}
+			},
+			{
+				"op": "add",
+				"row": "Exotic_Extractor_Large",
+				"value":
+				{
+					"InventoryID": {
+						"Value": "General"
+					},
+					"StartingSlots": 18
+				}
+			},
+			{
+				"op": "add",
+				"row": "Exotic_Harvester",
+				"value":
+				{
+					"InventoryID": {
+						"Value": "General"
+					},
+					"StartingSlots": 36
+				}
+			}
+        ]
+	}
+}

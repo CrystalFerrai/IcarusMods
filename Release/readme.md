@@ -10,6 +10,18 @@ If you play with other mods not designed for the mod manager, it is recommended 
 
 # Mod Details
 
+## Cave Map
+
+Adds cave icons to the main maps (not outposts). Also adds an outline of the playable area in the null sector of Prometheus. Custom caves in null sector have not yet been mapped.
+
+Cave icon colors:
+
+* White: Template cave
+* Yellow: Custom cave
+* Red: Template cave with entrance inside a custom cave
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/CaveMap.zip)
+
 ## Deep Ore Fast
 
 Increases the mining speed of the biofuel and electric deep ore mining drills.
@@ -53,17 +65,30 @@ Tweaks various recipes to balance against time and resource availability.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RecipeTweaks.zip)
 
-## Fast Pickup
-
-Reduces the action hold time for picking up deployables from 3 seconds to 0.5 seconds.
-
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/FastPickup.zip)
-
 ## Extra Concrete
 
 The concrete mix recipe now produces 2 concrete at no extra cost.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/ExtraConcrete.zip)
+
+## Extractor Space
+
+Increases inventory size of exotic extractors and harvesters.
+
+* Biofuel Extractor: 5 -> 12
+* Electric Extractor: 5 -> 18
+* IC-001 Extractor: 5 -> 18
+* Exotic Harvester: 5 -> 36
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/ExtractorSpace.zip)
+
+Warning: Do not run the game without this mod while you have active extractors/harvesters or you will lose the materials in the extra slots.
+
+## Fast Pickup
+
+Reduces the action hold time for picking up deployables from 3 seconds to 0.5 seconds.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/FastPickup.zip)
 
 ## Hide Geometry Screen
 
@@ -87,6 +112,12 @@ Pressing \[Alt + Numpad 6\] will start a continuous scan of whatever your game c
 Inrcreases the duration of the lantern from 10 minutes to 30 minutes.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LanternFuel.zip)
+
+## Lava Cooler
+
+Reduces the ambient heat around lava pools. It still gets very hot, but stays within a range that can be mitigated via gears, buffs, etc. By default, lava areas can reach temperatures of 130C (even though the in-game UI caps at 90C). This mod brings that down to a maximum of around 90C.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LavaCooler.zip)
 
 ## Loadout
 
@@ -129,21 +160,3 @@ Removes plant fatigue from crop plots for all plants except "strange plants". No
 Adds a new mission to the Prometheus map called "HARVEST: Red Exotics". This is an exploration mission (30 days, no objectives) that is accessible after completing the fourth story mission. This new mission contains 10 red exotic trees for harvesting.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/RedExoMission.zip)
-
-## Lava Cooler
-
-Reduces the ambient heat around lava pools. It still gets very hot, but stays within a range that can be mitigated via gears, buffs, etc. By default, lava areas can reach temperatures of 130C (even though the in-game UI caps at 90C). This mod brings that down to a maximum of around 90C.
-
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LavaCooler.zip)
-
-## Cave Map
-
-Adds cave icons to the main maps (not outposts). Also adds an outline of the playable area in the null sector of Prometheus. Custom caves in null sector have not yet been mapped.
-
-Cave icon colors:
-
-* White: Template cave
-* Yellow: Custom cave
-* Red: Template cave with entrance inside a custom cave
-
-[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/CaveMap.zip)
