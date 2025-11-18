@@ -33,7 +33,7 @@ Increases the mining speed of the biofuel and electric deep ore mining drills.
 
 ## DevHammer
 
-Enables the "Stone Hammer" dev tool (a.k.a. Thor's Hammer). When held, this hammer allows flying around at high speed via left click and toggling levitation with right click. Craftable with 1 stone.
+Enables the "Stone Hammer" dev tool (a.k.a. Thor's Hammer). When held, this hammer allows flying around at high speed via left click and toggling levitation with right click. Craftable with 1 stone on character. No tech unlock required.
 
 ## Exotic Spawner
 
