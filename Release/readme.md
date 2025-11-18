@@ -31,6 +31,10 @@ Increases the mining speed of the biofuel and electric deep ore mining drills.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/DeepOreFast.zip)
 
+## DevHammer
+
+Enables the "Stone Hammer" dev tool (a.k.a. Thor's Hammer). When held, this hammer allows flying around at high speed via left click and toggling levitation with right click. Craftable with 1 stone.
+
 ## Exotic Spawner
 
 **The game now has its own exotic respawning mechanic in open world, so this mod is no longer needed. However, there are some differences with how the mod works that might be preferable for some people.**

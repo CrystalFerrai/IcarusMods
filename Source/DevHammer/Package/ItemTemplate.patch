@@ -1,0 +1,21 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Items/D_ItemTemplate.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "Stone_Hammer",
+				"value":
+				{
+					"ItemStaticData": {
+						"RowName": "Stone_Hammer"
+					}
+				}
+			}
+        ]
+	}
+}

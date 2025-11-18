@@ -1,0 +1,47 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Crafting/D_ProcessorRecipes.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "Stone_Hammer",
+				"value":
+				{
+					"RecipeSets": [
+						{
+							"RowName": "Character",
+							"DataTableName": "D_RecipeSets"
+						}
+					],
+					"Inputs": [
+						{
+							"Element": {
+								"RowName": "Stone",
+								"DataTableName": "D_ItemsStatic"
+							},
+							"Count": 1
+						}
+					],
+					"Outputs": [
+						{
+							"Element": {
+								"RowName": "Stone_Hammer",
+								"DataTableName": "D_ItemTemplate"
+							},
+							"Count": 1,
+							"DynamicProperties": [],
+							"Alterations": []
+						}
+					],
+					"Audio": {
+						"RowName": "Default"
+					}
+				}
+			}
+        ]
+	}
+}

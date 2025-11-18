@@ -1,0 +1,1 @@
+H:\Icarus\Mods\CaveMap\Mod\*.* ../../../Icarus/*.*

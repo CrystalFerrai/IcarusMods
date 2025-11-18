@@ -1,0 +1,77 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Items/D_ItemsStatic.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "Stone_Hammer",
+				"value":
+				{
+					"Meshable": {
+						"RowName": "Mesh_Stone_Hammer"
+					},
+					"Itemable": {
+						"RowName": "Dev_Thor_Hammer"
+					},
+					"Interactable": {
+						"RowName": "Item"
+					},
+					"Focusable": {
+						"RowName": "Focusable_1H"
+					},
+					"Highlightable": {
+						"RowName": "Generic"
+					},
+					"Actionable": {
+						"RowName": "DEV_FlyingHammer"
+					},
+					"Usable": {
+						"RowName": "Repair"
+					},
+					"Durable": {
+						"RowName": "Stone_Hammer"
+					},
+					"Decayable": {
+						"RowName": "Decay_General"
+					},
+					"Audio": {
+						"RowName": "RepairToolMetal"
+					},
+					"AdditionalStats": {
+						"(Value=\"BaseActionHoldTime_+%\")": -5
+					},
+					"Generated_Tags": {
+						"GameplayTags": [
+							{
+								"TagName": "Traits.Meshable"
+							},
+							{
+								"TagName": "Traits.Itemable"
+							},
+							{
+								"TagName": "Traits.Interactable"
+							},
+							{
+								"TagName": "Traits.Highlightable"
+							},
+							{
+								"TagName": "Traits.Actionable"
+							},
+							{
+								"TagName": "Traits.Usable"
+							},
+							{
+								"TagName": "Traits.Durable"
+							}
+						],
+						"ParentTags": []
+					}
+				}
+			}
+        ]
+	}
+}

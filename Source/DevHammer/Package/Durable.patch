@@ -1,0 +1,28 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Traits/D_Durable.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "Stone_Hammer",
+				"value":
+				{
+					"Max_Durability": 100000,
+					"ItemsForRepair": [
+						{
+							"Item": {
+								"RowName": "Stone",
+								"DataTableName": "D_ItemsStatic"
+							},
+							"Amount": 1
+						}
+					]
+				}
+			}
+        ]
+	}
+}
