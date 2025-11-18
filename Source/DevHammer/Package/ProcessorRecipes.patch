@@ -11,6 +11,7 @@
 				"row": "Stone_Hammer",
 				"value":
 				{
+					"RequiredMillijoules": 100,
 					"RecipeSets": [
 						{
 							"RowName": "Character",
