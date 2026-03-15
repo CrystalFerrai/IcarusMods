@@ -114,6 +114,12 @@ Reduces the ambient heat around lava pools. It still gets very hot, but stays wi
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LavaCooler.zip)
 
+## LessTint
+
+Reduces fog density and partially desaturates atmospheric color tint in the grasslands and swamp biomes. Basically, grasslands is less purple and swamp is less green, but the effects are not fully removed.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/LessTint.zip)
+
 ## Loadout
 
 Increases loadout and drop ship slots from 15 to 20.

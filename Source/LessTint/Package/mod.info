@@ -1,0 +1,8 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/LessTint",
+	"name": "LessTint",
+	"author": "Crystal",
+	"description": "Reduces fog density and saturation of atmospheric color tinting in some biomes.",
+	"version": "1.0.0"
+}
