@@ -1,0 +1,8 @@
+{
+	"schema_version": 1,
+	"id": "Crystal/CaveVision",
+	"name": "CaveVision",
+	"author": "Crystal",
+	"description": "Significantly reduces the darkness effect inside caves.",
+	"version": "1.0.0"
+}

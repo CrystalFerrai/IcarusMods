@@ -22,6 +22,12 @@ Cave icon colors:
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/CaveMap.zip)
 
+## CaveVision
+
+Significantly reduces the darkness effect applied inside of caves, allowing players to be able to see better even on higher shadow quality settings.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/CaveVision.zip)
+
 ## Deep Ore Fast
 
 Increases the mining speed of the biofuel and electric deep ore mining drills.
