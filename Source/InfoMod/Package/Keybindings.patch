@@ -1,0 +1,107 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Input/D_Keybindings.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "InfoMod_ToggleScanMenu",
+				"value":
+				{
+					"DisplayName": "INVTEXT(\"Toggle scan menu\")",
+					"BindContext": {
+						"RowName": "InfoMod"
+					},
+					"KeyboardActionMapping": {
+						"ActionName": "InfoMod_ToggleScanMenu",
+						"Key": {
+							"KeyName": "NumPadSix"
+						}
+					},
+					"KeyboardAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadActionMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					}
+				}
+			},
+			{
+				"op": "add",
+				"row": "InfoMod_ToggleHUD",
+				"value":
+				{
+					"DisplayName": "INVTEXT(\"Toggle coordinates\")",
+					"BindContext": {
+						"RowName": "InfoMod"
+					},
+					"KeyboardActionMapping": {
+						"ActionName": "InfoMod_ToggleHUD",
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"KeyboardAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadActionMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					}
+				}
+			},
+			{
+				"op": "add",
+				"row": "InfoMod_ToggleLookAt",
+				"value":
+				{
+					"DisplayName": "INVTEXT(\"Toggle target scan\")",
+					"BindContext": {
+						"RowName": "InfoMod"
+					},
+					"KeyboardActionMapping": {
+						"ActionName": "InfoMod_ToggleLookAt",
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"KeyboardAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadActionMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					}
+				}
+			}
+        ]
+	}
+}

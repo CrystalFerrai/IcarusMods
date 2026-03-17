@@ -104,6 +104,8 @@ Pressing \[Numpad 6\] will perform a scan for locations and other details of var
 
 Pressing \[Alt + Numpad 6\] will start a continuous scan of whatever your game camera is currently looking at. It will display some information in the middle of your screen about your target such as actor class and material type.
 
+Custom key bindings can be set for the above actions from the game's key binding settings menu.
+
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/InfoMod.zip)
 
 ## Lantern Fuel
