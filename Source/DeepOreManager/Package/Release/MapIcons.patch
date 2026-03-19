@@ -1,0 +1,28 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "UI/D_MapIcons.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "DeepOreManagerWaypoint",
+				"value":
+				{
+					"WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+					"MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Waypoint.Icon_Map_Waypoint'",
+					"ZOrder": 50,
+					"ScaleFactor": 0.5,
+					"Color": {
+						"R": 96,
+						"G": 192,
+						"B": 80,
+						"A": 255
+					}
+				}
+			}
+        ]
+	}
+}

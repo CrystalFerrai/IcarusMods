@@ -1,0 +1,43 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Input/D_Keybindings.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "DeepOreManager_ToggleMenu",
+				"value":
+				{
+					"DisplayName": "INVTEXT(\"Toggle ore manager menu\")",
+					"BindContext": {
+						"RowName": "DeepOreManager"
+					},
+					"KeyboardActionMapping": {
+						"ActionName": "DeepOreManager_ToggleMenu",
+						"Key": {
+							"KeyName": "NumPadFive"
+						}
+					},
+					"KeyboardAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadActionMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					},
+					"GamepadAxisMapping": {
+						"Key": {
+							"KeyName": "None"
+						}
+					}
+				}
+			}
+        ]
+	}
+}

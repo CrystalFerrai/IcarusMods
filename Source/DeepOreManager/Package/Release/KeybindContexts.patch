@@ -1,0 +1,29 @@
+{
+	"schema_version": 1,
+	"type": "DataTable",
+	"target": "Input/D_KeybindContexts.json",
+	"data":
+	{
+		"patches":
+        [
+			{
+				"op": "add",
+				"row": "DeepOreManager",
+				"value":
+				{
+					"DisplayName": "INVTEXT(\"Deep Ore Manager\")",
+					"SharedWithContexts": [
+						{
+							"RowName": "Survival",
+							"DataTableName": "D_KeybindContexts"
+						},
+						{
+							"RowName": "Character",
+							"DataTableName": "D_KeybindContexts"
+						}
+					]
+				}
+			}
+        ]
+	}
+}

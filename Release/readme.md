@@ -37,6 +37,14 @@ Increases the mining speed of the biofuel and electric deep ore mining drills.
 
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/DeepOreFast.zip)
 
+## Deep Ore Manager
+
+Adds a menu that allows locating deep ore deposits as well as individually changing their ore type.
+
+To open the menu, press \[Numpad 5\]. Press again to close the menu. This key binding can be changed in the game's key binding settings menu.
+
+[Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/DeepOreManager.zip)
+
 ## DevHammer
 
 Enables the "Stone Hammer" dev tool (a.k.a. Thor's Hammer). When held, this hammer allows flying around at high speed via left click and toggling levitation with right click. (Levitation only works for host player.) Craftable with 1 stone on character. No tech unlock required.
