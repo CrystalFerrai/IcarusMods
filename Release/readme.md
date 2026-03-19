@@ -43,6 +43,10 @@ Adds a menu that allows locating deep ore deposits as well as individually chang
 
 To open the menu, press \[Numpad 5\]. Press again to close the menu. This key binding can be changed in the game's key binding settings menu.
 
+Ore deposits will be sorted based on distance from the player at the time the menu is opened, with the closest nodes appearing at the top of the list.
+
+Known issue: The game hitches when opening the menu.
+
 [Download Here](https://github.com/CrystalFerrai/IcarusMods/raw/main/Release/DeepOreManager.zip)
 
 ## DevHammer
